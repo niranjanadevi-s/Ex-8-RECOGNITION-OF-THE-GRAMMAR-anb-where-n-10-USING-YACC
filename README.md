@@ -33,7 +33,7 @@ int yywrap()
 {
     return 1;
 }
-~~~
+
 Program niru.y file
 
 %{
